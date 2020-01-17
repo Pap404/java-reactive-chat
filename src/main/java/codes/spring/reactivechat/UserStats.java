@@ -15,7 +15,7 @@ import static java.util.Arrays.asList;
 
 public class UserStats {
 
-
+//предполагает, что существует множество издателей и только один подписчик
     UnicastProcessor eventPublisher;
     Map<String, Stats> userStatsMap = new ConcurrentHashMap();
 
