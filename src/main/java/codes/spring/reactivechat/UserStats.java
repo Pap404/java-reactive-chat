@@ -1,4 +1,4 @@
-package codes.monkey.reactivechat;
+package codes.spring.reactivechat;
 
 import codes.monkey.reactivechat.Event.Type;
 import reactor.core.publisher.Flux;

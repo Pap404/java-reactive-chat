@@ -1,4 +1,4 @@
-package codes.monkey.reactivechat;
+package codes.spring.reactivechat;
 
 import java.util.HashMap;
 import java.util.Map;
